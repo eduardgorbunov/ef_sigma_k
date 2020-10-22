@@ -1,5 +1,5 @@
 # Linearly Converging Error Compensated SGD
-Code for the paper "Linearly Converging Error Compensated SGD" by Eduard Gorbunov, Dmitry Kovalev, Dmitry Makarenko and Peter Richtárik.
+Code for the paper "Linearly Converging Error Compensated SGD" by Eduard Gorbunov, Dmitry Kovalev, Dmitry Makarenko and Peter Richtárik, NeurIPS 2020.
 
 To run the experiments one should download the data from LIBSVM https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html
 and save the datasets in .txt format in the folder called "datasets". Also one should create folders "dump" and "plot".
